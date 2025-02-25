@@ -117,6 +117,7 @@ div.maindesc button{
     height: 60px;
 }
 
+
 div.bestel{
     text-align: center;
     padding: 2px;
@@ -124,4 +125,16 @@ div.bestel{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
     
+}
+
+div.bestel button{
+    border: none;
+    color: black;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    background-color: rgb(235, 81, 81);
+    cursor: pointer;
+    width: 10%;
+    height: 50px;
 }
