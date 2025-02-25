@@ -87,7 +87,41 @@ div.prijs{
     background-color: aliceblue;
     border-top: lightgray 5px solid;
 } 
-div.reclame img{
-    width: 95vw;
-    height: auto;
+div.main{
+    float: left;
+    padding: 8px;
+    border: 10px solid gray ;
+}
+div.main img{
+    border: 5px solid black;
+
+}
+div.maindesc{
+    float: right;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    word-wrap: normal;
+    width: 500px;
+
+}
+div.maindesc button{
+    border: none;
+    color: black;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    background-color: rgb(235, 81, 81);
+    cursor: pointer;
+    width: 100%;
+    height: 60px;
+}
+
+div.bestel{
+    text-align: center;
+    padding: 2px;
+    border: 10px solid gray;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    
 }
